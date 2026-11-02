@@ -1,4 +1,4 @@
-# Tugas Praktikum Mobile – Pertemuan 5
+# Tugas Praktikum Aplikasi Mobile – Pertemuan 5
 
 Tugas praktikum Flutter pertemuan 5: pembuatan halaman profil dan penerapan **Refactoring Code** serta **Extract Widget**.
 
